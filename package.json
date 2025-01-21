@@ -7,7 +7,7 @@
     "dev": "tsx watch src/server.ts",
     "knex": "node --import tsx ./node_modules/knex/bin/cli.js"
   },
-  "author": "Rodrigo",
+  "author": "Ricardo Tavares",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
