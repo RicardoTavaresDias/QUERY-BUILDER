@@ -5,7 +5,7 @@
 <h1 align="center"> Query Builder </h1>
 
 <p align="center">
-  <img alt="Sistema de Reembolso" src="github/Knex.png" width="100%">
+  <img alt="Knexjs" src="./github/knex.png" width="100%">
 </p>
 
 <h2>## Sobre:</h2>
