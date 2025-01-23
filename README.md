@@ -3,9 +3,14 @@
 </p>
 
 <h1 align="center"> Query Builder </h1>
+
+<p align="center">
+  <img alt="Sistema de Reembolso" src="github/Knex.png" width="100%">
+</p>
+
 <h2>## Sobre:</h2>
 <p align="center">
-O Query Builder é uma ferramenta que permite aos usuários criar consultas personalizadas para acessar informações em um banco de dados por meio de uma interface visual. Para utilizar efetivamente essa ferramenta, é fundamental compreender alguns dos conceitos e funções básicas associados ao uso do Query Builder.
+Query Builders para abstrair o código SQL e manipular o banco de dados sem precisar escrever SQL diretamente. Vamos aprender a utilizar os métodos do Query Builder para gerar código SQL de acordo com o banco de dados. Veremos como inserir, selecionar, atualizar dados e também como versionar o banco de dados com Migrations e popular dados com Seeds.
 </p>
 <br>
 
@@ -15,15 +20,7 @@ O Query Builder é uma ferramenta que permite aos usuários criar consultas pers
 - SQLite
 - NodeJS
 - Framework Express
-- Framework Knex
-- Framework Query Builder
+- Framework knex - Query Builder
 
-<br>
 
-## 💻 Projeto
 
-O projeto foi executado junto com instrutor da Rocketseat somente API nodeJS focado no framework Query Builders, realizado CRUD e configuração do servidor NodeJS.
-
----
-
-Rocketseat: [Participe da nossa comunidade!](https://www.rocketseat.com.br/)
